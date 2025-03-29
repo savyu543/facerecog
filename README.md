@@ -2,7 +2,7 @@ face recognition
 
  This application  works only when you create different folders one is detecting faces,known_faces,unknown_faces  and copy the path to the code.
  download xampp and create the required databases according to facerecog2.py.
- pip install the wheel file .
+ pip install the requrements.txt file.(pip install -r requirements.txt)
  
  ![Screenshot (4)](https://github.com/user-attachments/assets/3a24c17c-53a9-4c52-8681-f3fc42ca0ad2)
 
